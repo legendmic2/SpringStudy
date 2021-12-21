@@ -1,6 +1,6 @@
-package com.goonoo.demoproject.controller;
+package com.goonoo.springstudy.controller;
 
-import com.goonoo.demoproject.domain.BoardVO;
+import com.goonoo.springstudy.domain.BoardVO;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

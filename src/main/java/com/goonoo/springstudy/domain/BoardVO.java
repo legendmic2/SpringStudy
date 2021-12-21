@@ -1,4 +1,4 @@
-package com.goonoo.demoproject.domain;
+package com.goonoo.springstudy.domain;
 
 import lombok.Getter;
 import lombok.Setter;
